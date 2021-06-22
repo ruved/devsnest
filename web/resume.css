@@ -1,0 +1,28 @@
+.name
+{
+	text-align: center;
+	margin-bottom: -10px;
+}
+
+.outline
+{
+
+	max-width: 600px;
+	margin: auto;
+	border-style:solid;
+	padding: 10px;
+	border-radius: 10px;
+}
+.sec1
+{
+	border-right: solid;
+	display: inline-block;
+	width: 45%;
+	padding: 10px;
+}
+.sec2
+{
+display: inline-block;
+width: 45%;
+padding: 10px;
+}
